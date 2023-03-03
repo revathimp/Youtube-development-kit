@@ -7,3 +7,7 @@
 4. upload program
 
 5. subscription program
+
+6. add program
+
+7. views count program
