@@ -11,3 +11,5 @@
 6. add program
 
 7. views count program
+
+8. setting program
